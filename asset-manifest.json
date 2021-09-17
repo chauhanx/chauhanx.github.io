@@ -1,0 +1,42 @@
+{
+  "files": {
+    "main.css": "/static/css/main.d88709a7.chunk.css",
+    "main.js": "/static/js/main.a7421a7c.chunk.js",
+    "main.js.map": "/static/js/main.a7421a7c.chunk.js.map",
+    "runtime-main.js": "/static/js/runtime-main.b690c030.js",
+    "runtime-main.js.map": "/static/js/runtime-main.b690c030.js.map",
+    "static/js/2.489b725d.chunk.js": "/static/js/2.489b725d.chunk.js",
+    "static/js/2.489b725d.chunk.js.map": "/static/js/2.489b725d.chunk.js.map",
+    "static/css/3.48764ad6.chunk.css": "/static/css/3.48764ad6.chunk.css",
+    "static/js/3.1112a06a.chunk.js": "/static/js/3.1112a06a.chunk.js",
+    "static/js/3.1112a06a.chunk.js.map": "/static/js/3.1112a06a.chunk.js.map",
+    "static/css/4.ac93e82a.chunk.css": "/static/css/4.ac93e82a.chunk.css",
+    "static/js/4.e8886229.chunk.js": "/static/js/4.e8886229.chunk.js",
+    "static/js/4.e8886229.chunk.js.map": "/static/js/4.e8886229.chunk.js.map",
+    "index.html": "/index.html",
+    "precache-manifest.b6505ae75e1936381636f6349d01826a.js": "/precache-manifest.b6505ae75e1936381636f6349d01826a.js",
+    "service-worker.js": "/service-worker.js",
+    "static/css/3.48764ad6.chunk.css.map": "/static/css/3.48764ad6.chunk.css.map",
+    "static/css/4.ac93e82a.chunk.css.map": "/static/css/4.ac93e82a.chunk.css.map",
+    "static/css/main.d88709a7.chunk.css.map": "/static/css/main.d88709a7.chunk.css.map",
+    "static/js/2.489b725d.chunk.js.LICENSE.txt": "/static/js/2.489b725d.chunk.js.LICENSE.txt",
+    "static/media/index.css": "/static/media/Montserrat-Regular.ee653992.ttf",
+    "static/media/appinventiv.png": "/static/media/appinventiv.3afdffc1.png",
+    "static/media/codeInLogo.webp": "/static/media/codeInLogo.47a7a717.webp",
+    "static/media/contactMailDark.svg": "/static/media/contactMailDark.51cf7192.svg",
+    "static/media/dell.png": "/static/media/dell.080a988f.png",
+    "static/media/developerActivity.svg": "/static/media/developerActivity.59389695.svg",
+    "static/media/gbu.jpeg": "/static/media/gbu.10e50c9e.jpeg",
+    "static/media/manOnTable.svg": "/static/media/manOnTable.52be3144.svg",
+    "static/media/neu.png": "/static/media/neu.f18c61bc.png",
+    "static/media/qd.png": "/static/media/qd.7c840f35.png",
+    "static/media/skill.svg": "/static/media/skill.34409398.svg",
+    "static/media/toki.png": "/static/media/toki.a416e806.png"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.b690c030.js",
+    "static/js/2.489b725d.chunk.js",
+    "static/css/main.d88709a7.chunk.css",
+    "static/js/main.a7421a7c.chunk.js"
+  ]
+}

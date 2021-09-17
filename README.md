@@ -1,3 +1,0 @@
-# Ankur Chauhan, Software Developer
-
-
