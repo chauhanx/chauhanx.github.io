@@ -1,43 +1,43 @@
 self.__precacheManifest = (self.__precacheManifest || []).concat([
   {
-    "revision": "65c9c80acb8a12656c086c27ac840825",
+    "revision": "e9827a7cc330accaacfc8b1e875630d1",
     "url": "/index.html"
   },
   {
-    "revision": "4fbc02eebf10cf4319d5",
+    "revision": "7082c795826977269b98",
     "url": "/static/css/3.48764ad6.chunk.css"
   },
   {
-    "revision": "eade3f6a7ac443d70ba1",
+    "revision": "de6a8a684d094d602fe0",
     "url": "/static/css/4.ac93e82a.chunk.css"
   },
   {
-    "revision": "b7d4d0b64a564b4d7286",
+    "revision": "ec350b23427f305c4b20",
     "url": "/static/css/main.d88709a7.chunk.css"
   },
   {
-    "revision": "8c3f04aa679801f84fba",
-    "url": "/static/js/2.0d78fe27.chunk.js"
+    "revision": "58f215b41571c8b8c87e",
+    "url": "/static/js/2.6ccf0089.chunk.js"
   },
   {
     "revision": "b9941b26ce7f87a25d1a3bc0d5ae97bc",
-    "url": "/static/js/2.0d78fe27.chunk.js.LICENSE.txt"
+    "url": "/static/js/2.6ccf0089.chunk.js.LICENSE.txt"
   },
   {
-    "revision": "4fbc02eebf10cf4319d5",
-    "url": "/static/js/3.aec1c6ab.chunk.js"
+    "revision": "7082c795826977269b98",
+    "url": "/static/js/3.e5dc2795.chunk.js"
   },
   {
-    "revision": "eade3f6a7ac443d70ba1",
-    "url": "/static/js/4.4e5f8d51.chunk.js"
+    "revision": "de6a8a684d094d602fe0",
+    "url": "/static/js/4.bbefb3b9.chunk.js"
   },
   {
-    "revision": "b7d4d0b64a564b4d7286",
-    "url": "/static/js/main.4bf1b863.chunk.js"
+    "revision": "ec350b23427f305c4b20",
+    "url": "/static/js/main.d0473815.chunk.js"
   },
   {
-    "revision": "cef5e7ca06c0dd67735e",
-    "url": "/static/js/runtime-main.cc854470.js"
+    "revision": "c51932c87609d8266f85",
+    "url": "/static/js/runtime-main.63e3eab4.js"
   },
   {
     "revision": "21f233e19402cc4a66866a7f31191f0d",
@@ -50,6 +50,10 @@ self.__precacheManifest = (self.__precacheManifest || []).concat([
   {
     "revision": "3afdffc1b8cb4c0ea19cccbc5f62ff89",
     "url": "/static/media/appinventiv.3afdffc1.png"
+  },
+  {
+    "revision": "379540eb7fc2c053b15364a9fc8d8a6f",
+    "url": "/static/media/awsa.379540eb.jpeg"
   },
   {
     "revision": "47a7a717679b640ceb1b05d38c480a61",
